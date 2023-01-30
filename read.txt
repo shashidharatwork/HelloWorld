@@ -1,0 +1,12 @@
+ Volume in drive C is Acer
+ Volume Serial Number is 20CA-D61F
+
+ Directory of C:\Program Files\Jenkins\Jenkinshome\workspace\Java
+
+30-01-2023  20:48    <DIR>          .
+30-01-2023  20:48    <DIR>          ..
+30-01-2023  20:28               901 Hello.class
+24-01-2023  21:35               202 Hello.java
+30-01-2023  20:48               135 read.txt
+               3 File(s)          1,238 bytes
+               2 Dir(s)  63,697,375,232 bytes free
